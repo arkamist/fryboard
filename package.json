@@ -1,0 +1,12 @@
+{
+  "name": "fryboard",
+  "version": "0.6.0",
+  "description": "A modular desktop app.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "electron . --enable-logging"
+  },
+  "keywords": [],
+  "author": "Michael Arakilian",
+  "license": "MIT"
+}
